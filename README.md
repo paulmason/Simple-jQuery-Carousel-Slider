@@ -1,5 +1,5 @@
-Simple-jQuery-Carousel-Slider
-=============================
+Simple jQuery Carousel Slider - Demo Files
+==========================================
 
 These are the demo files for the tutorial at: http://paulmason.name/item/simple-jquery-carousel-slider-tutorial
 
